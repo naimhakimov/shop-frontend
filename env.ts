@@ -1,0 +1,1 @@
+export const api = 'https://staging-shop-server.herokuapp.com/api'
